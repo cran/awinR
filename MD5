@@ -1,0 +1,15 @@
+95c668f5c4201a3d70bffb56513ed633 *DESCRIPTION
+6e3f75e2d4a8bc2224372ffe91ce83de *NAMESPACE
+b17b5fce932c5a3fc29d10679f79f058 *NEWS.md
+32b6a4d71ec4e2088585a63564ac97ff *R/fetch_awin.R
+8c5e962e9041e3cf0319b6a5903638d6 *R/my_awin_data.R
+4523eea6127d6ca7a689be5667427667 *README.md
+faa7af1f7e33a44b658b735e629d90e6 *build/vignette.rds
+dbd5029a0fc676bfcebedc09f522091b *data/my_awin_data.RData
+dbfa36bc5f04a3c8e1f1572fa3326d14 *inst/doc/tutorial.R
+4d3ec0ebcf43b30e52f9ac508220a02f *inst/doc/tutorial.Rmd
+f7e94b0b54279f64fe4ff6029ad2f41b *inst/doc/tutorial.html
+020eb7d5bb187acae3fe7b99a7238a8b *man/fetch_awin.Rd
+25e04c0c9af0289a776228c307bf2390 *man/my_awin_data.Rd
+dbd5029a0fc676bfcebedc09f522091b *vignettes/my_awin_data.RData
+4d3ec0ebcf43b30e52f9ac508220a02f *vignettes/tutorial.Rmd
